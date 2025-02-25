@@ -77,8 +77,8 @@
 
 
 
-### Musics 🎧  
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=darko05.gt&cover_image=true&theme=default&bar_color=ffffff&bar_color_cover=true&interchange=true" align="left" style="width: 100%" />
+### Musics 🎧
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=darko05.gt&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=darko05.gt&redirect=true)
 
 </td><td valign="top" width="50%">
 
