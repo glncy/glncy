@@ -78,7 +78,7 @@
 
 
 ### Musics 🎧  
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=darko05.gt&cover_image=true&theme=default&bar_color=ffffff&bar_color_cover=true" align="left" style="width: 100%" />
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=darko05.gt&cover_image=true&theme=default&bar_color=ffffff&bar_color_cover=true&interchange=true" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
