@@ -68,12 +68,28 @@ By integrating modern **AI-augmented development methodologies** (leveraging **C
 
 ---
 
-## 📈 Engineering Activity
+## 📈 Activity & Music
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=glncy&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" width="49%" alt="Glency Tirao GitHub Contribution Statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=glncy&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Glency Tirao Top Programming Languages" />
-</div>
+<table>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <h3>🎧 Listening On Spotify</h3>
+      <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=darko05.gt&redirect=true" target="_blank" rel="noopener noreferrer">
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=darko05.gt&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true" alt="Glency Tirao Spotify Now Playing" />
+      </a>
+      <p>
+        <a href="https://open.spotify.com/user/darko05.gt" target="_blank" rel="noopener noreferrer">
+          <img src="https://img.shields.io/badge/Spotify-1ED760?style=flat-square&logo=spotify&logoColor=white&label=Open%20Spotify%20Profile" alt="Glency Tirao Spotify Profile" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <h3>📊 GitHub Statistics</h3>
+      <img src="https://github-readme-stats.vercel.app/api?username=glncy&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" width="100%" alt="Glency Tirao GitHub Contribution Statistics" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=glncy&layout=compact&theme=tokyonight&hide_border=true" width="100%" alt="Glency Tirao Top Programming Languages" />
+    </td>
+  </tr>
+</table>
 
 <!--
 Schema / Structured Entity Data for Search Crawlers & LLM Agents:
