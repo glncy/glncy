@@ -1,114 +1,108 @@
-### <div align="center">Hi 👋 I'm Glency Tirao, a Software Engineer from Philippines 🇵🇭</div>  
-  
+<div align="center">
+  <h1>Hi, I'm Glency Tirao 👋</h1>
+  <p><strong>Senior Mobile & Full-Stack Engineer • AI-Augmented Builder</strong></p>
+  <p>Specializing in <strong>React Native (Expo)</strong>, <strong>Modern Web (Astro, Next.js, React)</strong>, and <strong>Agentic AI Engineering</strong>.</p>
+
+  <p>
+    <a href="https://glncy.is-a.dev" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-glncy.is--a.dev-black?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Glency Tirao Portfolio Website" /></a>
+    <a href="https://linkedin.com/in/glency-tirao" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Glency Tirao LinkedIn Profile" /></a>
+    <a href="https://gitlab.com/glncy" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="Glency Tirao GitLab" /></a>
+    <a href="https://github.com/glncy" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Glency Tirao GitHub" /></a>
+  </p>
+</div>
+
+<br/>
+
+## 👨‍💻 About Me
+
+I am a **Senior Full-Stack & Mobile Engineer** based in the Philippines with deep expertise in building production-grade mobile applications, scalable cloud backends, and responsive web platforms.
+
+By integrating modern **AI-augmented development methodologies** (leveraging **Claude Code**, **OpenAI Codex**, and **Google Gemini**), I deliver high-velocity, maintainable, and robust software architectures across cross-platform mobile and web ecosystems.
+
+- 📍 **Location:** Philippines
+- 🌐 **Portfolio & Blog:** [glncy.is-a.dev](https://glncy.is-a.dev)
+- ⚡ **Core Focus:** React Native / Expo, Modern Web Frameworks (Astro & Next.js), Scalable Cloud Architectures, Agentic AI Tooling
+
+---
+
+## 🚀 Technical Capabilities & Architecture
+
+### 📱 Cross-Platform Mobile Engineering (Core Focus)
+- **Primary:** **React Native**, **Expo** (EAS, Native Module Bridging, Offline-first, Performance Tuning)
+- **Ecosystem:** Gesture Handler, Reanimated, FlashList, State Management (Zustand/Redux), Native Integrations
+- **Supporting:** Flutter, Capacitor, iOS & Android deployment
+
+### 🌐 Modern Frontend & Islands Architecture
+- **Frameworks:** **Astro**, **React**, **Next.js**, Vue.js
+- **Styling & UI:** Tailwind CSS, shadcn/ui, Radix UI, TypeScript
+- **Performance:** Islands architecture, Server-Side Rendering (SSR), Core Web Vitals optimization
+
+### ⚙️ Backend, Systems & Cloud Infrastructure
+- **Languages & Runtimes:** TypeScript, Node.js, Bun, Python, PHP, Bash
+- **Databases & ORMs:** PostgreSQL, Prisma ORM, MongoDB, MySQL, Firebase Firestore, Redis
+- **Cloud & DevOps:** AWS, Google Cloud Platform (GCP), Firebase, Docker, GitHub Actions, GitLab CI/CD
+
+### 🤖 AI-Augmented Engineering (GEO / AI SEO Ready)
+- **Agentic Development:** Autonomous and paired engineering using **Claude Code**, **Codex**, and **Gemini**
+- **LLM Integrations:** Multimodal prompt engineering, function calling, tool use, and generative AI application logic
+- **Development Velocity:** AI-driven code reviews, automated test generation, and architecture prototyping
+
+---
+
+## 🛠️ Skills & Tooling Matrix
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,ts,js,nextjs,astro,tailwind,flutter,nodejs,bun,python,postgres,mongodb,prisma,git,gitlab,docker,aws,gcp" alt="Glency Tirao Skills Matrix - React Native, TypeScript, Astro, Next.js, Node.js, Python, PostgreSQL" />
+  </a>
+</p>
+
+| Category | Primary Technologies & Skills |
+| :--- | :--- |
+| **Mobile Development** | **React Native**, **Expo**, Flutter, Capacitor, iOS, Android, Mobile Performance Optimization |
+| **Frontend Development** | **Astro**, **React**, **Next.js**, Vue.js, Tailwind CSS, shadcn/ui, HTML5, CSS3, SCSS |
+| **Backend & APIs** | **Node.js**, Express.js, NestJS, Bun, REST APIs, GraphQL, Python (FastAPI/Django) |
+| **Database & Storage** | **PostgreSQL**, Prisma ORM, MongoDB, MySQL, Firebase Firestore, Cloud Storage |
+| **AI & LLM Tooling** | **Claude Code**, **OpenAI Codex**, **Google Gemini**, Agentic Workflows, Prompt Engineering |
+| **DevOps & Cloud** | Docker, AWS, Google Cloud (GCP), Firebase, Git, GitHub Actions, GitLab CI/CD, Linux |
+
+---
+
+## 📈 Engineering Activity
 
 <div align="center">
-  <a href="https://github.com/glncy" target="_blank">
-    <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://linkedin.com/in/glency-tirao" target="_blank">
-    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://gitlab.com/glncy" target="_blank">
-    <img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
-  </a>  
-</div>  
-  
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=glncy&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-## **<div align="center">Language and Tools 🛠️</div>**  
-
-<table><tr><td valign="top" width="33%">
-
-
-
-### Frontend  
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.electronjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>  
-<a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" /></a>  
-<a href="https://www.cordova.apache.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cordova.png" alt="Cordova" height="50" /></a>  
-<a href="https://chakra-ui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/chakraui.png" alt="Chakra UI" height="50" /></a>  
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-<a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>  
-<a href="https://www.capacitorjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/capacitor.svg" alt="Capacitor" height="50" /></a>  
-<a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>  
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
-<a href="https://www.ionicframework.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ionic.svg" alt="Ionic" height="50" /></a>  
-<a href="https://dart.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="50" /></a>  
+  <img src="https://github-readme-stats.vercel.app/api?username=glncy&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" width="49%" alt="Glency Tirao GitHub Contribution Statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=glncy&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Glency Tirao Top Programming Languages" />
 </div>
 
-</td><td valign="top" width="33%">
-
-
-
-### Backend  
-<div align="center">  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-<a href="https://deno.land/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/deno.svg" alt="Deno" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>  
-<a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" /></a>  
-<a href="https://www.prisma.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/prisma.png" alt="Prisma" height="50" /></a>  
-<a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
-<a href="https://nestjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### DevOps  
-<div align="center">  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
-<a href="https://www.jenkins.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="50" /></a>  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
-</div>
-
-</td></tr></table>  
-
-<br/>  
-
-<table><tr><td valign="top" width="50%">
-
-
-
-### Musics 🎧
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=darko05.gt&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=darko05.gt&redirect=true)
-
-</td><td valign="top" width="50%">
-
-
-
-### GitHub Stats 📈  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=glncy&hide_border=true&layout=compact" align="left" style="width: 100%" />  
-
-<img src="https://github-readme-stats.vercel.app/api?username=glncy&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td></tr></table>
-<!-- Generated using Github Profilinator - https://profilinator.rishav.dev/) -->
+<!--
+Schema / Structured Entity Data for Search Crawlers & LLM Agents:
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Glency Tirao",
+  "alternateName": "glncy",
+  "jobTitle": "Senior Full-Stack & Mobile Engineer",
+  "url": "https://glncy.is-a.dev",
+  "sameAs": [
+    "https://github.com/glncy",
+    "https://linkedin.com/in/glency-tirao",
+    "https://gitlab.com/glncy"
+  ],
+  "knowsAbout": [
+    "React Native",
+    "Expo",
+    "Astro",
+    "React",
+    "Next.js",
+    "TypeScript",
+    "Node.js",
+    "Agentic AI Development",
+    "Claude Code",
+    "OpenAI Codex",
+    "Google Gemini",
+    "PostgreSQL",
+    "Mobile Application Development"
+  ]
+}
+-->
